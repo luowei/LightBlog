@@ -45,6 +45,7 @@ LightBlog便会开始运行在你设定的端口上（默认1337）
 添加修改文章和删除文章的功能
 
 ##更新日志
+V1.0.11：来自yangwenmai，对于app.js的修正【本版本为pull requests中Merge而来】  
 V1.0.11：来自yangwenmai，对于comment.js的修正【本版本为pull requests中Merge而来】  
 V1.0.10：来自yangwenmai，对于post.js的修正【本版本为pull requests中Merge而来】  
 V1.0.9：由于笔误的原因，所有关于数据库连接判断的相等写成了赋值，本版本修正user.js。【感谢yangwenmai的纠正，本版本为pull requests中Merge而来】  
